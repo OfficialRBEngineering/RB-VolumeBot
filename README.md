@@ -1,12 +1,12 @@
 // P O W E R E D  BY  RB  BOTS //
 
-===============================================
+=============================
 Contact us on Telegram for Support
 
 R0mrix: https://t.me/R0mrix
 
 Balency: https://t.me/BalencyRB
-===============================================
+=============================
 
 RB - PANCAKESWAP SNIPER BOT
 
