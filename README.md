@@ -1,4 +1,4 @@
-// P O W E R E D  BY  RB  BOTS //
+**// P O W E R E D  BY  RB  BOTS //**
 
 
 Contact us on Telegram for Support and Trial/Sales
@@ -90,4 +90,14 @@ INSTRUCTIONS:
 - 12H Temporary Keys can be found in the LicenseKey.txt file.
 - Paste Key and press Enter.
 - If key is registered correctly, main frame is enabled.
+
+Sales and Support contacts (Telegram)
+@BalencyRB
+@R0mrix
+
+Inquiries and custom bots:
+
+officialRB@proton.me
+
+**POWERED BY RB Engineering**
 
