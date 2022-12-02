@@ -83,7 +83,7 @@ INSTRUCTIONS:
 - Exctract .rar
 - Open file register key
 - App is going to ask for License Key.
-- 12H Temporary Keys can be found in the LicenseKey.txt file.
+- 6H Temporary Keys are provided by us on Telegram.
 - Paste Key and press Enter.
 - If key is registered correctly, main frame is enabled.
 
