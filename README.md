@@ -59,7 +59,7 @@ Auto-Update
 
 Designed for Windows only.
 
-For Windows
+
 Supported Versions:
 
 Windows 11
