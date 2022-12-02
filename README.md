@@ -3,9 +3,9 @@
 ===============================================
 Contact us on Telegram for Support
 
-R0mrix: https://t.me/R0mrix_OfficialRBbots
+R0mrix: https://t.me/R0mrix
 
-Balency: https://t.me/Balency_officialRBbots
+Balency: https://t.me/BalencyRB
 ===============================================
 
 RB - PANCAKESWAP SNIPER BOT
