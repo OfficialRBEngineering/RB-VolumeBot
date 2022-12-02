@@ -10,6 +10,9 @@ Balency: https://t.me/Balency_officialRBbots
 
 **RB - VOLUMEBOT V 1.5.9**
 
+Main Frame
+
+![VolumeBot snip](https://user-images.githubusercontent.com/119699472/205367395-ff916c30-394d-4f23-a2d3-3791021c0b76.PNG)
 
 
 Need a little boost in terms of Volume?
@@ -52,9 +55,7 @@ App gets constantantly updated with new features and improvements.
 
 🛎 6H License Key available. Contact us on Telegram.
 
-Main Frame
 
-![VolumeBot snip](https://user-images.githubusercontent.com/119699472/205367395-ff916c30-394d-4f23-a2d3-3791021c0b76.PNG)
 
 Auto-Update
 
